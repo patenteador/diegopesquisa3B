@@ -1,0 +1,29 @@
+{
+  "região_sudeste": {
+    "esportes_populares": {
+      "total_praticantes": 19500000,
+      "detalhes": [
+        {
+          "nome": "Futebol",
+          "praticantes": 12000000
+        },
+        {
+          "nome": "Vôlei",
+          "praticantes": 4000000
+        },
+        {
+          "nome": "Basquete",
+          "praticantes": 1500000
+        },
+        {
+          "nome": "Natação",
+          "praticantes": 1200000
+        },
+        {
+          "nome": "Jiu-Jitsu",
+          "praticantes": 800000
+        }
+      ]
+    }
+  }
+}
